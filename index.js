@@ -1,4 +1,4 @@
-let scooter = function(year, color, model) {
+let scooter = function() {
   this.year = year
   this.color = color
   this.model = model
